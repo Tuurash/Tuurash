@@ -26,7 +26,7 @@
   
 
 <a href="https://www.linkedin.com/in/mohaimanul-haque-7463b8187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/wiz.patrick.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="mailto:h.mohaimanul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://wa.me/8801773865128?text=Send20%a20%quote"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://www.facebook.com/wiz.patrick.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="mailto:h.mohaimanul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://wa.me/8801773865128?text=HY,Knocking from github"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 <img src="https://komarev.com/ghpvc/?username=Tuurash&views&color=92cce1&style=flat-square"/> 
 </p>
 
