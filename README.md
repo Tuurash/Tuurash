@@ -18,9 +18,7 @@
 
 - ✨ Fun fact : I love coding 🐶 and drawing (dont judge me) 🎶
 
-
-
-
+</br>
 <p align="right">
 
   
