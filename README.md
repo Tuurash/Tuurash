@@ -6,23 +6,16 @@
 
 
 ## A Little about me ( ͡👁️ ͜ʖ ͡👁️)✌:
+</br>
 <img align='left' src='https://media.giphy.com/media/ZRtME5Wuk8Togu6jui/giphy.gif' width='15%'/>
-
-
-
-
-
 - 🌐 more about me @ <a href="https://tuurash.github.io/">My Website</a>⭐
-
-
-
 - ✨ Fun fact : I love coding 🐶
 -  and drawing (dont judge me) 🙈
 - <a href="https://www.linkedin.com/in/mohaimanul-haque-7463b8187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:h.mohaimanul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Tuurash&theme=graywhite&show_icons=true&hide_border=true" alt="Tuurash"  width="44%"/>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tuurash&theme=graywhite&show_icons=true&hide_border=true" alt="Tuurash"  width="44%"/>
+
 
   
   
