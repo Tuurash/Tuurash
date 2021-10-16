@@ -5,7 +5,7 @@
 <h4 align='center'>I'm a Software Engineer. My interest is in Almost everything.</h4>
 
 
-## A Little about me 🌎:
+## A Little about me ( ͡👁️ ͜ʖ ͡👁️)✌:
 <img align='left' src='https://media.giphy.com/media/ZRtME5Wuk8Togu6jui/giphy.gif' width='15%'/>
 
 
@@ -17,6 +17,9 @@
 
 
 - ✨ Fun fact : I love coding 🐶 and drawing (dont judge me) 🎶
+
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Tuurash&theme=graywhite&show_icons=true&hide_border=true" alt="Tuurash"  width="44%"/>
+</p>
 
 </br>
 <p align="right">
@@ -35,9 +38,8 @@
 
 
 
-## Github Stats  ( ͡👁️ ͜ʖ ͡👁️)✌:
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Tuurash&theme=graywhite&show_icons=true&hide_border=true" alt="Tuurash"  width="44%"/>
-</p>
+
+
 
 
 
