@@ -1,8 +1,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm TURASH</h1>
-<h3 align="center">I ❤️ code, consistently learning</h3>
-
-<h4 align='center'>I'm a Software Engineer. My interest is in Almost everything.</h4>
 
 
 ## A Little about me 🌎:
