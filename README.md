@@ -14,8 +14,6 @@
 
 - 🌐 Find out more about me @ <a href="https://tuurash.github.io/">My Website</a>⭐
 
-- 📫 Reach me : 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-ffffff?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:h.mohaimanul@gmail.com)
 
 
 - ✨ Fun fact : I love coding 🐶 and drawing (dont judge me) 🎶
