@@ -5,34 +5,36 @@
 <h4 align='center'>I'm a Software Engineer. My interest is in Almost everything.</h4>
 
 
-## A Little about me ( ͡👁️ ͜ʖ ͡👁️)✌:
-</br>
+## A Little about me 🌎:
 <img align='left' src='https://media.giphy.com/media/ZRtME5Wuk8Togu6jui/giphy.gif' width='15%'/>
 
-- 🌐 more about me @ <a href="https://tuurash.github.io/">My Website</a>⭐  
-- ✨ Fun fact : I love coding 🐶  
--  and drawing (dont judge me) 🙈  
-- <a href="https://www.linkedin.com/in/mohaimanul-haque-7463b8187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:h.mohaimanul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
+
+
+- 🌐 Find out more about me @ <a href="https://tuurash.github.io/">My Website</a>⭐
+
+- 📫 Reach me : 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-ffffff?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:h.mohaimanul@gmail.com)
+
+
+- ✨ Fun fact : I love coding 🐶 and drawing (dont judge me) 🎶
+
+<p align="right">
+
+  
   
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tuurash&theme=graywhite&show_icons=true&hide_border=true" alt="Tuurash"  width="44%"/>
-
-
-  
-  
-
-
+<a href="https://www.linkedin.com/in/mohaimanul-haque-7463b8187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/jprodipta/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<img src="https://komarev.com/ghpvc/?username=BanerjeeProdipta&views&color=92cce1&style=flat-square"/> 
+</p>
 
 
 
 
 
 
-
-
-
-
-
-
-
+## Github Stats  ( ͡👁️ ͜ʖ ͡👁️)✌:
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Tuurash&theme=graywhite&show_icons=true&hide_border=true" alt="Tuurash"  width="50%"/>
+</p>
