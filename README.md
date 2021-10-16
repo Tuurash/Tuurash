@@ -37,7 +37,7 @@
 
 ## Github Stats  ( ͡👁️ ͜ʖ ͡👁️)✌:
 
-<p align="right"><img align='left' src='https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif' width='15%'/>
+<p align="right"><img align='left' src='https://media.giphy.com/media/CUHXyh3yXr9kI/giphy.gif' width='50%'/>
 </p>
 <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Tuurash&theme=graywhite&show_icons=true&hide_border=true" alt="Tuurash"  width="46%"/>
 </p>
