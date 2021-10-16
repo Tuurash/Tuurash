@@ -26,7 +26,7 @@
   
 
 <a href="https://www.linkedin.com/in/mohaimanul-haque-7463b8187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.linkedin.com/in/mohaimanul-haque-7463b8187/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:h.mohaimanul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
   
 
