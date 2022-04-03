@@ -31,7 +31,7 @@
 
 
 
-## Github Stats  ( ͡👁️ ͜ʖ ͡👁️)✌:
+## ( ͡👁️ ͜ʖ ͡👁️):
 
 <p align="right"><img align='left' src='https://media.giphy.com/media/CUHXyh3yXr9kI/giphy.gif' width='50%'/>
 </p>
