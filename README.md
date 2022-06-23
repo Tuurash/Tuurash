@@ -8,7 +8,7 @@
 
 
 
-- 🌐 Find out more about me @ <a href="https://tuurash.github.io/">My Website</a>⭐
+- 🌐 about me @ <a href="https://tuurash.github.io/">My Website</a>⭐
 
 <!--
 - 📫 Reach me : 
