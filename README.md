@@ -4,10 +4,6 @@
 ## A Little about me 🌎:
 <img align='left' src='https://media.giphy.com/media/ZRtME5Wuk8Togu6jui/giphy.gif' width='15%'/>
 
-
-
-
-
 - 🌐 about me @ <a href="https://tuurash.github.io/">My Website</a>⭐
 
 <!--
